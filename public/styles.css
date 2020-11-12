@@ -1,0 +1,24 @@
+
+.navbar-main {
+    height: 10vh;
+    width: 100vw;
+}
+
+.logo-main {
+    height: 100%;
+    object-fit: cover;
+}
+
+.big-text {
+    font-weight: 800;
+    font-size: 11rem;
+}
+
+.medium-text {
+    font-size: 3rem;
+}
+
+.large-image {
+    height: 89vh;
+    width: auto;
+}
